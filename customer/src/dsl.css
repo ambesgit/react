@@ -1,0 +1,8 @@
+.PrimaryButton{
+	color:#234568;
+	text-align: center;
+	background-color:gray;
+	border-radius:5%;
+	width:100px;
+	height:150px; 
+}
