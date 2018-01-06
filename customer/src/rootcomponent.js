@@ -4,7 +4,7 @@ class RootComponent extends Component{
 		return(
 
 			<div>
-				<p className="PrimaryButton">Cool</p>
+				<p className="Container700x800 ColorR135G135B0">Cool</p>
 			</div>
 			)
 	}
